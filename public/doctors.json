@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/k2HcV1Yd/doctor-executive-portrait-min.jpg",
+      "name": "Dr. Ayesha Rahman",
+      "education": "MBBS, MD (Gynecology)",
+      "speciality": "Gynecologist",
+      "experience": "10+ years",
+      "registrationNumber": "DMC123789",
+      "fee": 600,
+      "availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/d4N0JY48/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-cro.jpg",
+      "name": "Dr. John Smith",
+      "education": "MBBS, MS (Orthopedics)",
+      "speciality": "Orthopedic Surgeon",
+      "experience": "12+ years",
+      "registrationNumber": "DMC654321",
+      "fee": 800,
+      "availability": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/8376293/pexels-photo-8376293.jpeg",
+      "name": "Dr. Rabindra Kishor",
+      "education": "MBBS, MD (Dermatology)",
+      "speciality": "Dermatologist",
+      "experience": "8+ years",
+      "registrationNumber": "DMC987654",
+      "fee": 700,
+      "availability": ["Monday", "Thursday"]
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/8460158/pexels-photo-8460158.jpeg",
+      "name": "Dr. Michael Lee",
+      "education": "MBBS, MD (Cardiology)",
+      "speciality": "Cardiologist",
+      "experience": "15+ years",
+      "registrationNumber": "DMC112233",
+      "fee": 1000,
+      "availability": ["Wednesday", "Saturday"]
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/tpzMfmq3/360-F-172186647-e93-OQdc8-KSo-Bz-IPqf-KG0-Uo-JSJh-R15-HLa.jpg",
+      "name": "Dr. Fatima Noor",
+      "education": "MBBS, MS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "9+ years",
+      "registrationNumber": "DMC445566",
+      "fee": 650,
+      "availability": ["Tuesday", "Friday"]
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/8460159/pexels-photo-8460159.jpeg",
+      "name": "Dr. Raj Patel",
+      "education": "MBBS, MD (Pediatrics)",
+      "speciality": "Pediatrician",
+      "experience": "11+ years",
+      "registrationNumber": "DMC778899",
+      "fee": 700,
+      "availability": ["Monday", "Wednesday", "Saturday"]
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/8460160/pexels-photo-8460160.jpeg",
+      "name": "Dr. Emily Davis",
+      "education": "MBBS, MD (Neurology)",
+      "speciality": "Neurologist",
+      "experience": "13+ years",
+      "registrationNumber": "DMC334455",
+      "fee": 900,
+      "availability": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/s07NvTb/360-F-320523164-tx7-Rdd7-I2-XDTvv-Kfz2o-Ru-Rp-KOPE5z0ni.jpg",
+      "name": "Dr. Ahmed Khan",
+      "education": "MBBS, MS (Urology)",
+      "speciality": "Urologist",
+      "experience": "10+ years",
+      "registrationNumber": "DMC667788",
+      "fee": 850,
+      "availability": ["Wednesday", "Friday"]
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/F4R1yHrk/360-F-260040900-o-O6-YW1s-HTn-Kxby4-Gcj-Cvtyp-UCWjn-QRg5.jpg",
+      "name": "Dr. Simon ",
+      "education": "MBBS, MD (Oncology)",
+      "speciality": "Oncologist",
+      "experience": "14+ years",
+      "registrationNumber": "DMC990011",
+      "fee": 1200,
+      "availability": ["Monday", "Thursday"]
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/RGs21Wzh/360-F-305412791-XRNi-Wa-FCREj-LLp-SQfj0e736fo-Bo-YXXYv.jpg",
+      "name": "Dr. Carlos Mendes",
+      "education": "MBBS, MD (Psychiatry)",
+      "speciality": "Psychiatrist",
+      "experience": "7+ years",
+      "registrationNumber": "DMC223344",
+      "fee": 750,
+      "availability": ["Tuesday", "Friday"]
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/DD6ZwvS7/female-doctor-hospital-with-stethoscope-23-2148827776.jpg",
+      "name": "Dr. Linda Green",
+      "education": "MBBS, MD (Endocrinology)",
+      "speciality": "Endocrinologist",
+      "experience": "9+ years",
+      "registrationNumber": "DMC556677",
+      "fee": 800,
+      "availability": ["Monday", "Wednesday"]
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/dJfRGHCD/doctor-posing-portrait-free-photo.jpg",
+      "name": "Dr. Naveen Joshi",
+      "education": "MBBS, MS (General Surgery)",
+      "speciality": "General Surgeon",
+      "experience": "16+ years",
+      "registrationNumber": "DMC889900",
+      "fee": 950,
+      "availability": ["Thursday", "Saturday"]
+    }
+  ]
+  
